@@ -3,19 +3,6 @@ Imersão Inteligência Artificial 2ª Edição
 
 ### Aula 1: Mergulhando no Gemini, a IA do Google
 
-[
-
-![Ícone de play](/assets/images/immersion/play-button.svg)
-
-Aula 01
-
-![](/assets/images/immersion/checked-green.svg)
-
-Mergulhando no Gemini, a IA do Google
-
-
-
-](/imersoes/aulas/aula-1-mergulhando-no-gemini-a-ia-do-google-c128)
 
 Mergulhando no Gemini, a IA do Google
 -------------------------------------
