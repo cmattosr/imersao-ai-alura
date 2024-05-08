@@ -3,44 +3,6 @@ Imersão Inteligência Artificial 2ª Edição
 
 ### Aula 3: Explorando os parâmetros do Google AI Studio
 
-[
-
-![Ícone de play](/assets/images/immersion/play-button.svg)
-
-Aula 01
-
-![](/assets/images/immersion/checked-green.svg)
-
-Mergulhando no Gemini, a IA do Google
-
-
-
-](/imersoes/aulas/aula-1-mergulhando-no-gemini-a-ia-do-google-c128)[
-
-![Ícone de play](/assets/images/immersion/play-button.svg)
-
-Aula 02
-
-![](/assets/images/immersion/checked-green.svg)
-
-Melhores técnicas em Engenharia de Prompt
-
-
-
-](/imersoes/aulas/aula-02-melhores-tecnicas-em-engenharia-de-prompt-c129)[
-
-![Ícone de play](/assets/images/immersion/play-button.svg)
-
-Aula 03
-
-![](/assets/images/immersion/checked-green.svg)
-
-Explorando os parâmetros do Google AI Studio
-
-
-
-](/imersoes/aulas/aula-3-explorando-os-parametros-do-google-ai-studio-c130)
-
 Explorando os parâmetros do Google AI Studio
 --------------------------------------------
 
